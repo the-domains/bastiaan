@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Bastiaan de Zwitser]]></title>
-        <description><![CDATA[Bastiaan de Zwitser]]></description>
+        <title><![CDATA[Verhalenverteller Bastiaan de Zwitser]]></title>
+        <description><![CDATA[Verhalenverteller Bastiaan de Zwitser]]></description>
         <link>https://thegrid.ai/bastiaan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 20:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 20:48:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bastiaan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gallerij]]></title>
-            <description><![CDATA[<article><h1>Gallerij</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64f7573eb63889e7fcbfbb1b3b5238aeceda9696.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Gallerij</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a1ffd8f45fb4542222bdac4932701a5a23dad5d.jpg"></article>]]></description>
             <link>https://thegrid.ai/bastiaan/4488d317-c06a-462c-ae5b-caa389d0a467/index.html</link>
             <guid isPermaLink="false">4488d317-c06a-462c-ae5b-caa389d0a467</guid>
             <pubDate>Tue, 02 Feb 2016 20:41:10 GMT</pubDate>
@@ -22,17 +22,17 @@
         </item>
         <item>
             <title><![CDATA[Vertelde verhalen]]></title>
-            <description><![CDATA[<article><h1>Vertelde verhalen</h1><p>Ik ontwerp veel verhalen zelf waarbij ik ruim gebruik maak van bestaande legenden, sagen en geschiedenis. Hier een kleine selectie van mijn verhalen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bbdb545ea6588372cb4bedf7890a97c1229c331.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Vertelde verhalen</h1><p>Ik ontwerp veel verhalen zelf waarbij ik ruim gebruik maak van bestaande legenden, sagen en geschiedenis. Hier een kleine selectie van mijn verhalen.</p></article>]]></description>
             <link>https://thegrid.ai/bastiaan/6dfbf039-17b9-4182-b3b6-97a18ecbd4bc/index.html</link>
             <guid isPermaLink="false">6dfbf039-17b9-4182-b3b6-97a18ecbd4bc</guid>
-            <pubDate>Tue, 02 Feb 2016 20:34:14 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 20:48:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Een nieuw verhaal speciaal voor jou]]></title>
-            <description><![CDATA[<article><h1>Een nieuw verhaal speciaal voor jou</h1><p>Voor een verhaal op maat ontvang ik graag je mail. Dan spreken we de details met elkaar af, zodat ik goed te werk kan gaan voor je. Prijs en andere specificaties gebeuren ook gewoon op maat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc56a444ffd0afc774300834d29f9aef432120e0.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Een nieuw verhaal speciaal voor jou</h1><p>Voor een verhaal op maat ontvang ik graag je mail. Dan spreken we de details met elkaar af, zodat ik goed te werk kan gaan voor je. Prijs en andere specificaties gebeuren ook gewoon op maat.</p></article>]]></description>
             <link>https://thegrid.ai/bastiaan/a7e8c1c6-40ba-4113-b1fc-9cb3c60994c3/index.html</link>
             <guid isPermaLink="false">a7e8c1c6-40ba-4113-b1fc-9cb3c60994c3</guid>
-            <pubDate>Tue, 02 Feb 2016 20:16:47 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 20:48:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
