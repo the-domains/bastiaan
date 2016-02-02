@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bastiaan]]></title>
+        <description><![CDATA[Bastiaan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 19:28:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mooie verhalen,]]></title>
+            <description><![CDATA[<article><h1>Mooie verhalen,</h1><p>Welkom bij Verhalenverteller Bastiaan de Zwitser,</p></article>]]></description>
+            <link>undefinedf9992544-e502-4708-82bb-79aca24cabbd/index.html</link>
+            <guid isPermaLink="false">f9992544-e502-4708-82bb-79aca24cabbd</guid>
+            <pubDate>Tue, 02 Feb 2016 19:28:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
