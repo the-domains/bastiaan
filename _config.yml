@@ -1,6 +1,6 @@
-name: Bastiaan
+name: Verhalenverteller Bastiaan
 favicon: null
-layout_spectrum: 0.50748
+layout_spectrum: 0.34252
 typography_spectrum: 0.45001
 title: Verhalenverteller Bastiaan de Zwitser
 cta:
@@ -23,7 +23,7 @@ color:
     - '#7d833d'
     - '#fa883e'
   brandStrength: 0.5
-  lightness: 0.02272207522764802
+  lightness: 0.125
   saturation: 0.3125
   rhythmicContrast: 1
 purpose: []
