@@ -1,20 +1,4 @@
-name: Verhalenverteller Bastiaan
-favicon: null
-layout_spectrum: 0.34252
-typography_spectrum: 0.45001
-title: Verhalenverteller Bastiaan de Zwitser
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#210e0f'
@@ -24,6 +8,11 @@ color:
     - '#fa883e'
   brandStrength: 0.5
   lightness: 0.125
-  saturation: 0.3125
   rhythmicContrast: 1
+  saturation: 0.3125
+cta: {}
+layout_spectrum: 0.875
+name: Verhalenverteller Bastiaan
+opengraph: {}
 purpose: []
+typography_spectrum: 0.45001
